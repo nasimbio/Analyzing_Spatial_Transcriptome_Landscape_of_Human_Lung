@@ -7,7 +7,7 @@ This project analyzes high-resolution spatial transcriptomics data from human lu
 ## 📘 Project Overview
 
 Spatial transcriptomic profiling of human lung tissue was performed using the **Visium HD** platform, which offers subcellular resolution. Standard preprocessing, dimensionality reduction, and clustering were conducted to capture spatial gene expression patterns and identify distinct tissue regions.  
-To resolve the cellular composition of each spatial location, we employed the **RCTD** algorithm, leveraging an external single-cell reference atlas for robust deconvolution of Visium HD spots.
+To resolve the cellular composition of each spatial location, I employed the **RCTD** algorithm, leveraging an external single-cell reference atlas for robust deconvolution of Visium HD spots.
 
 ---
 
