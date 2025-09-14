@@ -1,4 +1,4 @@
-# 10x Visium HD Spatial Transcriptomics — Human Lung
+# Analyzing Spatial Transcriptome Landscape of Human Lung
 
 This project analyzes high-resolution spatial transcriptomics data from human lung tissue using the 10x Genomics **Visium HD** platform. The goal is to perform unsupervised clustering, anatomical region annotation, and spot-level cell type deconvolution using a well-annotated external single-cell RNA-seq reference.
 
